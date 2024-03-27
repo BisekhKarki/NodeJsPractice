@@ -1,0 +1,1 @@
+alert("Hello to the server")
