@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "This is nodejs tutorial for beginners ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon argument.js"
+  },
+  "author": "Bisekh Karki",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "minimist": "^1.2.8",
+    "prompt-sync": "^4.2.0"
+  }
+}
